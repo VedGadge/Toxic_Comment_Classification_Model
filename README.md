@@ -1,5 +1,7 @@
-Datasets contains text based comments and the labels associated with it
-Model it as a supervised learning problem
+Datasets contains text based comments and the labels associated with it.
+Model it as a supervised learning problem.
+Dataset Link : https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data
+Note :- I have only used train.csv for training, validation and testing
 
 DATAFLOW :
 1)Inputs
